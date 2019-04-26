@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/GoldBeardSea/portfolio/issues"
   },
-  "homepage": "https://github.com/GoldBeardSea/portfolio#readme"
+  "homepage": "https://github.com/GoldBeardSea/portfolio#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4"
+  }
 }
