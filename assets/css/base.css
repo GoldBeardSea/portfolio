@@ -1,5 +1,4 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 html {
   box-sizing: border-box;
@@ -11,11 +10,11 @@ html {
 
 body {
   background: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
-  color: #888;
+  color: #858;
 }
 
   body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -30,11 +29,11 @@ body {
   }
 
 input, textarea, select {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
-  color: #888;
+  color: #858;
 }
 
 h1, h2, h3, h4, h5, h6 {
