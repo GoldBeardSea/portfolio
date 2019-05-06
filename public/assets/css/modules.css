@@ -504,7 +504,7 @@ button,
 
 /* Wide */
 
-@media screen and (min-width: 961px) and (max-width: 1880px) {
+@media screen and (min-width: 761px) and (max-width: 1880px) {
 
   /* Basic */
 
@@ -621,7 +621,7 @@ button,
   display: none;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 761px) {
 
   /* Basic */
 
