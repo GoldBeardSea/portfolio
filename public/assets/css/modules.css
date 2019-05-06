@@ -487,8 +487,7 @@ button,
     }
 
     #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-image: url("https://media.giphy.com/media/chgyh8l1GrUSNN0f1m/giphy.gif");
     }
 
     #main > section.two {
@@ -809,7 +808,7 @@ button,
 
 /* Mobile */
 
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 480px) {
 
   /* Basic */
 
